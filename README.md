@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [So_long](https://github.com/aldgonza/So_long)
 
-- 🌱 I’m currently learning **C++, Phyton**
+- 🌱 I’m currently learning **C++, C, Phyton**
 
 - 📫 How to reach me **aldogo95@hotmail.com**
 
