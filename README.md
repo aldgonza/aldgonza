@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hi, I am Aldo from Paraguay</h3>
 
 - 🔭 I’m currently working on [So_long](https://github.com/aldgonza/So_long)
 
