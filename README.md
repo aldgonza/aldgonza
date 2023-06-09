@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I am Aldo from Paraguay</h3>
 
-- 🔭 I’m currently working on [Push_Swap]([https://github.com/aldgonza/So_long](https://github.com/aldgonza/push_swap))
+- 🔭 I’m currently working on [Push_Swap](https://github.com/aldgonza/push_swap)
 
 - 🌱 I’m currently learning **C++, C, Phyton**
 
