@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I am Aldo from Paraguay</h3>
+<h3 align="center">Hi, I am Aldo Student in 42barcelona</h3>
 
 - 🔭 I’m currently working on [Push_Swap](https://github.com/aldgonza/push_swap)
 
