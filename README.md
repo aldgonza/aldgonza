@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **aldogo95@hotmail.com**
 
-- ⚡ Fun fact **I like Frogs**
+- ⚡ **I like Frogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
