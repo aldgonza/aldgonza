@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C++, C, Phyton**
 
-- 📫 How to reach me **aldogo95@hotmail.com**
+- 📫 **aldogo95@hotmail.com**
 
 - ⚡ **I like Frogs**
 
