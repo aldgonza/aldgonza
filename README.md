@@ -1,11 +1,5 @@
 <h3 align="center">Hi, I am Aldo Student in 42barcelona</h3>
 
-- 🔭 I’m currently working on [Push_Swap](https://github.com/aldgonza/push_swap)
-
-- 🌱 I’m currently learning **C++, C, Phyton**
-
-- 📫 **aldogo95@hotmail.com**
-
 - ⚡ **I like Frogs**
 
 <h3 align="left">Connect with me:</h3>
